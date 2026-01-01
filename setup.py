@@ -7,7 +7,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 
 __version__ = "0.0.5"
 REPO_NAME = "mongodbconnectionhminh@@"
-PKG_NAME= "mongodb-connect-hminh"
+PKG_NAME= "mongodbconnecthminh"
 AUTHOR_USER_NAME = "hoangminh125"
 AUTHOR_EMAIL = "mluu9151@gmail.com"
 
