@@ -5,11 +5,11 @@ with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()     
    
 
-__version__ = "0.0.4"
-REPO_NAME = "firts_project"
-PKG_NAME= "MongoDB_Connect"
+__version__ = "0.0.5"
+REPO_NAME = "mongodbconnectionhminh@@"
+PKG_NAME= "mongodb-connect-hminh"
 AUTHOR_USER_NAME = "hoangminh125"
-AUTHOR_EMAIL = "mluu59990@gmail.com"
+AUTHOR_EMAIL = "mluu9151@gmail.com"
 
 setup(
     name=PKG_NAME,#đây là tên của gói
